@@ -1,4 +1,4 @@
-# Ex. No.  - SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE
+# Ex. No.5 - SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE
 ### DATE: 
 
 ## AIM:
@@ -59,30 +59,9 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
 
 ## Output:
+<img width="1917" height="911" alt="Screenshot 2026-08-27 134740" src="https://github.com/user-attachments/assets/c0b36b04-2cd0-4aea-91e1-00b82266acea" />
 
-### Name: Gopi jayaram E
-### Register Number: 212225240042
-
-### X axis
-
-![alt text](image-1.png)
-
-### Y axis
-
-![alt text](image-2.png)
-
-### Z axis
-
-![alt text](image-3.png)
-
-### Completed assembly
-
-![alt text](image-4.png)
-
-### Playing with axis
-
-![alt text](image.png)
-
-
+### Name: B.HARSHAVARTHINI
+### Register Number: 212224110023
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
