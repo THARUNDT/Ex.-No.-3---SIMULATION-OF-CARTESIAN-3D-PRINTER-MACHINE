@@ -61,7 +61,7 @@
 ## Output:
 <img width="1917" height="911" alt="Screenshot 2026-08-27 134740" src="https://github.com/user-attachments/assets/c0b36b04-2cd0-4aea-91e1-00b82266acea" />
 
-### Name: B.HARSHAVARTHINI
-### Register Number: 212224110023
+### Name: THARUN D
+### Register Number: 212223240167
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
