@@ -60,8 +60,29 @@
 
 ## Output:
 
-### Name: 
-### Register Number:
+### Name: Gopi jayaram E
+### Register Number: 212225240042
+
+### X axis
+
+![alt text](image-1.png)
+
+### Y axis
+
+![alt text](image-2.png)
+
+### Z axis
+
+![alt text](image-3.png)
+
+### Completed assembly
+
+![alt text](image-4.png)
+
+### Playing with axis
+
+![alt text](image.png)
+
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
